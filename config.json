@@ -22,6 +22,6 @@
     "init_clone":
         { "fetch": { "scm":"git", "url":"https://github.com/wind-river-rocket/dining-philosophers-sample-app.git" } },
     "rocket_kernel":
-        { "fetch": { "scm":"git", "url":"http://vxgit.wrs.com/scm/pubsdkex/happ-rocket-kernel.git" } }
+	{ "fetch": { "scm":"git", "url":"https://github.com/wind-river-rocket/helix-rocket-kernel.git" } }
   }
 }
