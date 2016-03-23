@@ -1,7 +1,7 @@
 /* phil.h - dining philosophers header file*/
 
 /*
- * Copyright (c) 2015, Wind River Systems, Inc.
+ * Copyright (c) 2015-2016 Wind River Systems, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
