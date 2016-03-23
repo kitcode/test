@@ -12,7 +12,7 @@
   ],
   "lang": "C",
   "cmds": {
-    	"clone": "$HAC_SDK_DIR/scripts/prjClone.pl -cfg %src%/config.json -prj %dest% -sdk $HAC_SDK_DIR -arch $SDK_ARCH"
+     	"clone":"$HAC_SDK_DIR/scripts/prjClone.sh -cfg %config% -prj %dest%"
   },
   "doc": "docs/description.md",
   "visibility": "local",
